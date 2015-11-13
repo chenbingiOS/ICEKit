@@ -1,0 +1,94 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - CMPopTipView (2.2.0)
+  - DACircularProgress (2.3.1)
+  - EAIntroView (2.7.4):
+    - EARestrictedScrollView (~> 0.2.0)
+  - EARestrictedScrollView (0.2.0)
+  - FDFullscreenPopGesture (1.1)
+  - iOS-QR-Code-Encoder (0.0.1)
+  - IQKeyboardManager (3.3.4)
+  - JDStatusBarNotification (1.5.2)
+  - MBProgressHUD (0.9.1)
+  - MJExtension (3.0.3)
+  - MJRefresh (3.0.2)
+  - MWPhotoBrowser (2.1.1):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - PhotoTweaks (1.0.2)
+  - Reachability (3.2)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - ReactiveViewModel (0.3):
+    - ReactiveCocoa (~> 2.4)
+  - SDCycleScrollView (1.3)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CMPopTipView
+  - EAIntroView
+  - FDFullscreenPopGesture
+  - iOS-QR-Code-Encoder
+  - IQKeyboardManager
+  - JDStatusBarNotification
+  - MJExtension
+  - MJRefresh
+  - MWPhotoBrowser
+  - PhotoTweaks
+  - Reachability
+  - ReactiveCocoa
+  - ReactiveViewModel
+  - SDCycleScrollView
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  CMPopTipView: a0a88404b9f46a5cfc16ce54bdb1b9bf9acb9aff
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  EAIntroView: 50b85eedf414260e61330070ffe5947e72493a62
+  EARestrictedScrollView: f86d61e16c61d3e93c84f8e96e83122a2a3b7631
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  iOS-QR-Code-Encoder: 5aef73d5d6ecdb2031ced14e0e6eadfb8c637514
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+  JDStatusBarNotification: a36d09ccbb047217572b074a61e7ca10dddc5f0a
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJExtension: de557e1c48ef3212590d3203764c8003fae68815
+  MJRefresh: 85377dc8c70395cf329e102a5c55505ef387c2e1
+  MWPhotoBrowser: ba0d0c09ffda3a7ea10093518738c502c1c7141c
+  PhotoTweaks: e91ce097f9df435049e7c35d419f9a7749e252bc
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  ReactiveViewModel: 58918dcbcec2d3151195ab1ed9163c57a8163999
+  SDCycleScrollView: 90e43636fcc8e6a7f74e8b64d87418a8e96549b4
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+
+COCOAPODS: 0.39.0
